@@ -280,11 +280,11 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 tvg-id="--" group-title="HIBURAN" tvg-logo="https://images.indihometv.com/logo_fashiontv_big1.png", Fashion TV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HsKzE1f.png" group-title="HIBURAN" group-logo="" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HsKzE1f.png" group-title="HIBURAN" group-logo="" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Hot Secrets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
 
-#EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", A3Bikini
+#EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", A3B ikini
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 
 
