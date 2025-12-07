@@ -150,10 +150,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
-#EXTINF:-1 group-title="SPORT"  tvg-logo="https://i.imgur.com/hAYrZYJ.png",PeacockTV Premier League
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nba_big1.png" group-title="SPORT",NBA PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EYNMoIL.jpeg" group-title="SPORT",SPORTSTARS 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -183,8 +183,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/7m1R8y7.png",STRONG MAN CHAMPIONS
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://images.indihometv.com/logo_kungfutv_big.png?v=2.0.0.13",KUNGFU TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeX85Es.png" group-title="SPORT",ONE SPORTS+ HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORT", UNIFI SPORTS
@@ -554,8 +556,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstream.adaptive.license_key=71e96242146f479e84289c48b5dd08c2:4f9e73cfba9e047b2b6ee41d7d303f21
 http://atemecdnbalancer-voe.sysln.id/live/eds/WarnerHD/mediampd/WarnerHD.mpd
 
-##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_big.png" group-title="FILM", WARNER TV (Indi)
-#https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_big.png" group-title="FILM", WARNER TV (INDI)
+##https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/
+##https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-id="ZeeBioskop.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_zbioskop_big1.png", ZEE BIOSKOP (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
