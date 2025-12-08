@@ -226,9 +226,8 @@ http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS", CCTV 16
 http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/uODWP9s.png", AllPLAY SPORTS (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 
 =========================================================================================
