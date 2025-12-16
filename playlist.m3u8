@@ -15,7 +15,7 @@
 ==============================================================================================================
 
 
-#EXTINF:0 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png",INDOSIAR
+#EXTINF:0 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png",INDOSIAR (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=Indosiar
@@ -27,8 +27,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-
-#EXTINF:0 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png",SCTV
+#EXTINF:0 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png",SCTV (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=Sctv
@@ -45,11 +44,16 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (DENS)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (V+)
+##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png", CNN INDONESIA (Live)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
